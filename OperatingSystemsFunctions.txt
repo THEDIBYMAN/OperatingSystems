@@ -3,3 +3,5 @@ Operating Systems
 Operating systems manage software and hardware on a computer and present them to the user in a meaningful manner. They take all the code and put it in a format that makes sense. Most operating systems use a Graphical User Interface (GUI) to connect the user and the computer. 
 
 A second function of a computer's Operating system is to protect the computer from viruses. People put a lot of personal information on their computers, and it is the job of the operating system to protect it. Some OS's are better at this than others, but all modern OS's have some sort of security protocol.
+
+A thrid function of a computer's OS is to manage all of the resources on the computer to make everything preform at maximum efficiency. Without the OS, the computer would be absolutely lost as to what to do and what order to do it in. But with the help of an operating system, the computer can recieve the commeand and excecute it efficiently. 
